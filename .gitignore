@@ -1,0 +1,18 @@
+# IAR generated build files
+[Dd]ebug/
+[Rr]elease/
+settings/
+*.dep
+*.o
+*.pbi
+*.pbd
+*.pbd.browse
+*.pbi.cout
+# Windows metadata
+desktop.ini
+Thumbs.db
+# Local secrets
+.env
+.env.*
+*.pem
+*.key
