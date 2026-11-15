@@ -1867,6 +1867,9 @@
     </settings>
   </configuration>
   <file>
+    <name>$PROJ_DIR$\c.txt</name>
+  </file>
+  <file>
     <name>$PROJ_DIR$\..\..\Users\davie\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.7\Drivers\CMSIS\Include\core_cm4.h</name>
   </file>
   <file>
@@ -1876,7 +1879,19 @@
     <name>$PROJ_DIR$\delay.h</name>
   </file>
   <file>
+    <name>$PROJ_DIR$\delay.txt</name>
+  </file>
+  <file>
     <name>$PROJ_DIR$\main.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\main.txt</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\..\project.icf</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\startup_tm4c.c</name>
   </file>
   <file>
     <name>$PROJ_DIR$\tm4c.h</name>
