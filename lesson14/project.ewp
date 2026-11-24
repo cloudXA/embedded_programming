@@ -1891,9 +1891,6 @@
     <name>$PROJ_DIR$\..\project.icf</name>
   </file>
   <file>
-    <name>$PROJ_DIR$\startup_tm4c.c</name>
-  </file>
-  <file>
     <name>$PROJ_DIR$\tm4c.h</name>
   </file>
   <file>
